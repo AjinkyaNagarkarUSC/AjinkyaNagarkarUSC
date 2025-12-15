@@ -6,7 +6,7 @@ I am a passionate and results-driven Computer Science graduate student at the Un
 
 ---
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AjinkyaNagarkarUSC&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Ajinkya Nagarkar's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AjinkyaNagarkarUSC&show_icons=true&theme=dark&include_all_commits=true" alt="Ajinkya Nagarkar's GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjinkyaNagarkarUSC&theme=dark" alt="GitHub Streak" />
 </p>
 
